@@ -1,6 +1,6 @@
 {
   "name": "@koriz/maps-polygon-editor",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "This multi polygon editor written in TypeScript for the React Native Maps component. This component allows you to select, create, or modify areas on Apple Maps and Google Maps.",
   "keywords": [
     "maps-polygon-editor",
